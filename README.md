@@ -1,14 +1,14 @@
-# Multiplatform Mobile App Development with Web Technologies : Ionic Framework
+# Server-side Development with NodeJS
 ## Universidad Científica y Tecnológica de Hong Kong
 
-This course focuses on developing multiplatform mobile applications using the Web skills (HTML5, CSS and Javascript) that you have already acquired so far in the previous courses of this specialization. In particular we make use of the Cordova hybrid application framework to develop and target multiple mobile platforms with a single codebase. We make use of the Ionic framework, one of fastest growing mobile application frameworks, that is built with mobile-optimized HTML5 and CSS based components and AngularJS. You will learn about UI development with Ionic and then using Cordova's modules to access the native mobile platform's capabilities from Javascript. You should have already completed the Bootstrap and the AngularJS courses in this specialization before proceeding with this course. Alternately you should already have sufficient knowledge of Bootstrap and AngularJS before you proceed with this course.
+This course deals with all things server-side. We base the entire course around the NodeJS platform. We start with a brief overview of the Web protocols: HTTP and HTTPS. We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose for accessing MongoDB from NodeJS. We examine the REST concepts and building a RESTful API. We touch upon authentication and security. Finally we review backend as a service (BaaS) approaches, including mobile BaaS, both open-source and commercial BaaS services.
 
-At the end of this course you will be able to:
+At the end of this course, you will be able to:
 
-- Build mobile applications targeting multiple platforms with a single codebase
-- Leverage your HTML5, CSS, Javascript and AngularJS skills
-- Use various features of the Ionic framework to build hybrid mobile applications
+- Demonstrate an understanding of server-side concepts, CRUD and REST
+- Build and configure a backend server using NodeJS framework
+- Build a RESTful API for the front-end to access backend services
 
 ---
 
-https://www.coursera.org/learn/hybrid-mobile-development
+https://www.coursera.org/learn/server-side-development
