@@ -50,7 +50,6 @@ exports.verifyAdmin = function (req, res, next) {
             } else {
                 // if everything is good, save to request for use in other routes
                 req.decoded = decoded;
-                console.log("Cosa   :   " + req.decoded._doc.admin);
 
                 if (req.decoded._doc.admin){
                     next();
